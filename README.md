@@ -1,1 +1,1 @@
-# css colour rgb
+# css colours rgb
